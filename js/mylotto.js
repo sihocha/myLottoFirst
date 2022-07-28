@@ -1,6 +1,6 @@
 for(var n = 0; n < 5; n++) {
     var result = [];
-    var list = [2,3,4,7,9,20,22,23,24,,27,29,30,32,33,34,37,39,40,42,43,44];
+    var list = [2,3,4,7,9,20,22,23,24,27,29,30,32,33,34,37,39,40,42,43,44];
 
     for (var i = 0; i < 6; i++) {
         var index = Math.floor(Math.random() * list.length);
