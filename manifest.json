@@ -1,6 +1,6 @@
 {
-    "name": "MyLotto2nd",
-    "short_name": "MyLotto2nd",
+    "name": "MyLotto",
+    "short_name": "MyLotto",
     "icons": [
         {
             "src": "icons/lotto-logo.png",
@@ -17,5 +17,5 @@
     "background_color": "#ffffff",
     "orientation": "any",
     "display": "browser",
-    "start_url": "/lotto/"
+    "start_url": "/MyLottoFirst/"
 }
